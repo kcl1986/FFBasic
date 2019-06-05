@@ -1,0 +1,11 @@
+{
+  "updates": {
+    "windows": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://github.com/kcl1986/FFBasic/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Windows. Go on...",
+      "mandatory": true
+    }
+  }
+}
